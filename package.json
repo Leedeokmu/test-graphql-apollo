@@ -1,0 +1,9 @@
+{
+  "name": "movieql",
+  "version": "1.0.0",
+  "description": "test project for using graphql & apollo by making movie app",
+  "main": "index.js",
+  "repository": "https://github.com/Leedeokmu/test-graphql-apollo",
+  "author": "leedeokmu <freeefly@bluehole.net>",
+  "license": "MIT"
+}
